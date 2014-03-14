@@ -44,7 +44,7 @@
        "iconv-lite": "0.2.7"
     },
     "optionalDependencies":{
-        "iconv": "1.2.3"
+        "iconv": "git://github.com/hakobera/node-iconv.git#master"
     },
     "devDependencies": {
        "qunit": "0.5.8",
